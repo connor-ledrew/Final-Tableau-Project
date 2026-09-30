@@ -1,14 +1,14 @@
-# Final-Project-Tableau
+# Final Project: Tableau
 
 ## Project/Goals
-To explore, understand, and visualize the a provided dataset.
+To explore, understand, and visualize a provided dataset.
 
 ## Process
 Select a dataset: Fifa 18 player ratings (video game)
 Feature creation:  Best position & Player Type (Attacker, Midfielder, Defender, Goalkeeper)
 Feature deletion: Rating by position, image files.
-Intro EDA: Understanding player value, nationality, rating distribution, age distribtion, and beyond.
-Attempt meaningful questions:  Skills by position, where to scout, when to purchase players, player type with the most value, and where to scout affordibly. 
+Intro EDA: Understanding player value, nationality, rating distribution, age distribution, and beyond.
+Attempt meaningful questions:  Skills by position, where to scout, when to purchase players, player type with the most value, and where to scout affordably.
 
 ## Results
 Option 2: Fifa 18 player ratings. 
@@ -21,8 +21,8 @@ Visualizations:
 4. Wage by Rating:          Scatterplot:  What is the trend for player wages (polynomial) by player type. 
 5. Value by Rating:         Scatterplot:  What is the trend for player value (polynomial) by player type. 
 6. Value by age:            Combination: histogram and line: compare distributions of player value and age
-7. Value-age cluster:       Histrogram:  Clustering shows 4 primary phases to a players career, and when they most commonly occur by age.
-8. Player Rating List:      Bar Chart: Demonstrate Top N Paramater filtering & interactivity.
+7. Value-age cluster:       Histogram:  Clustering shows 4 primary phases to a player's career, and when they most commonly occur by age.
+8. Player Rating List:      Bar Chart: Demonstrate Top N Parameter filtering & interactivity.
 ...
 
 
@@ -37,7 +37,7 @@ The ability to visualize data quickly was useful but did not feel sufficient for
 
 ## Future Goals
 Interactivity:
-More time should be spent building interactive and meaningful dashboards.  This would more aptly demonstrate the capabilities of tableau and my understanding of the technicques taught.
+More time should be spent building interactive and meaningful dashboards.  This would more aptly demonstrate the capabilities of Tableau and my understanding of the techniques taught.
 
 Connectivity: 
 Connecting to outside datasets, such as population distributions by country, video game sales, or player popularity ratings would provide additional  meaningful layers for analysis.
